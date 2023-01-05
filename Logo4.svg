@@ -2,19 +2,24 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="297mm"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="Logo4.svg">
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="Logo4.svg"
+   inkscape:export-filename="Logo4.png"
+   inkscape:export-xdpi="96.761902"
+   inkscape:export-ydpi="96.761902"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title22">Logo4.svg</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,16 +30,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="566.5011"
-     inkscape:cy="475.3088"
+     inkscape:cx="230"
+     inkscape:cy="482.85714"
      inkscape:document-units="px"
      inkscape:current-layer="layer8"
      showgrid="false"
-     inkscape:window-width="1264"
-     inkscape:window-height="626"
-     inkscape:window-x="0"
-     inkscape:window-y="50"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1557"
+     inkscape:window-height="1205"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -43,7 +51,23 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Logo4.svg</dc:title>
+        <dc:date>16DEC2014</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jose Ignacio Croce Busquets</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Adriana Mercedes Francescone</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>https://creativecommons.org/licenses/by/4.0/</dc:title>
+          </cc:Agent>
+        </dc:rights>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,15 +87,15 @@
      inkscape:label="ollado">
     <text
        xml:space="preserve"
-       style="font-size:100px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:Sans Italic"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSans;-inkscape-font-specification:'Sans Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="425.71429"
        y="852.36218"
-       id="text3123"
-       sodipodi:linespacing="125%"><tspan
+       id="text3123"><tspan
          sodipodi:role="line"
          id="tspan3125"
          x="425.71429"
-         y="852.36218">ollado</tspan></text>
+         y="852.36218"
+         style="font-size:100px;line-height:1.25">ollado</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -79,15 +103,15 @@
      inkscape:label="V">
     <text
        xml:space="preserve"
-       style="font-size:450px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Purisa;-inkscape-font-specification:Purisa Bold Oblique"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Purisa;-inkscape-font-specification:'Purisa Bold Oblique';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="-94.949997"
        y="1054.6122"
-       id="text3128"
-       sodipodi:linespacing="125%"><tspan
+       id="text3128"><tspan
          sodipodi:role="line"
          id="tspan3130"
          x="-94.949997"
-         y="1054.6122">V</tspan></text>
+         y="1054.6122"
+         style="font-size:450px;line-height:1.25">V</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -95,15 +119,15 @@
      inkscape:label="illalba">
     <text
        xml:space="preserve"
-       style="font-size:100px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:Sans"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="159.42859"
        y="1049.6022"
-       id="text3139"
-       sodipodi:linespacing="125%"><tspan
+       id="text3139"><tspan
          sodipodi:role="line"
          id="tspan3141"
          x="159.42859"
-         y="1049.6022">illalba</tspan></text>
+         y="1049.6022"
+         style="font-size:100px;line-height:1.25">illalba</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -111,15 +135,15 @@
      inkscape:label="Badminton">
     <text
        xml:space="preserve"
-       style="font-size:100px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:Sans"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="-8"
        y="74"
-       id="text3144"
-       sodipodi:linespacing="125%"><tspan
+       id="text3144"><tspan
          sodipodi:role="line"
          id="tspan3146"
          x="-8"
-         y="74">Bádminton</tspan></text>
+         y="74"
+         style="font-size:100px;line-height:1.25">Bádminton</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
